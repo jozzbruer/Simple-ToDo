@@ -1,5 +1,4 @@
 # Simple-ToDo
--# codepath_prework
 +# Pre-work - *Simple ToDo*
  
 -My name is Quince Joz-Bruer
